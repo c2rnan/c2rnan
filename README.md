@@ -33,6 +33,7 @@ I am currently sharpening my skills and expanding my knowledge to become an incr
 
 <code><img height="20" src="https://github.com/user-attachments/assets/e6f95635-6934-481d-94d4-21a7bf6b69e0"></code>
 <code><img height="20" src="https://github.com/user-attachments/assets/295108bd-fb57-44f4-8cbf-621e570c263c"></code>
+<code><img height="20" src="https://e7.pngegg.com/pngimages/220/595/png-clipart-javascript-logo-product-design-brand-angularjs-dashboard-templates-angle-text-thumbnail.png"></code>
 <code><img height="20" src="https://github.com/user-attachments/assets/31cd3400-7da8-4440-882f-e72747f68323"></code>
 <code><img height="20" src="https://github.com/user-attachments/assets/e2c472e3-9eaf-412f-85f9-5a5e32ad3bf1"></code>
 <code><img height="20" src="https://github.com/user-attachments/assets/177a2f58-2395-4e3d-a4e7-d352e4a6395f"></code>
