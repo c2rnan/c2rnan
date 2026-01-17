@@ -17,10 +17,10 @@ I am currently sharpening my skills and expanding my knowledge to become an incr
 ### Connect with me:
 
 <p>
-<a href="https://www.instagram.com/dolfo.mori">
+<a href="https://www.instagram.com/c.rnan_/">
 <img align="left" alt="icone do instagram uma camera dentro de um quadrado" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.linkedin.com/in/rodolfomori/">
+<a href="https://www.linkedin.com/in/c2rnan">
 <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 </p>
