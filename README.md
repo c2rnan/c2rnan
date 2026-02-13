@@ -1,4 +1,4 @@
-## 💻Hello! I'm Caio Renan, a Full Stack Developer in training.
+## 💻Hello! I'm Caio Renan, a Back End Developer in training.
 I am currently sharpening my skills and expanding my knowledge to become an increasingly well-rounded professional. I’ve been focusing on web development, programming best practices, and building solutions that combine functionality, performance, and a high-quality user experience.
 <br>
 
